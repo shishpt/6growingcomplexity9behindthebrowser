@@ -1,11 +1,19 @@
 # Flutter ToDo App
 
-A basic to-do app built with Flutter. This app has add/delete/update functinality with search for any existing to-do item in the app.
+A simple To-Do app that uses Dart and Flutter to create a CRUD application. This project was created following a tutorial.
 
-## Watch it on YouTube
-This repository is part of a tutorial on my YouTube.
-- [Flutter ToDo App Tutorial for Beginners](https://youtu.be/K4P5DZ9TRns)
+This project was quite difficult as a few videos and documentation had to be referenced due to the difference in syntax.  It was a fun project to create as a beginner.
 
-## Screenshot
+# Files to follow
 
-![Flutter todo app](./flutter-todo-iphone.png)
+### assets/images
+Contains picture for left top
+
+### lib/model/todo.dart
+Provides the todo list
+
+### lib/screens/home.dart
+Acts as 1 page components for the application.
+
+### lib/main.dart
+Acts as an index
