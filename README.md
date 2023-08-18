@@ -17,3 +17,7 @@ Acts as 1 page components for the application.
 
 ### lib/main.dart
 Acts as an index
+
+### Run application
+Opening the code in VSCODE requires the 'Flutter' extension
+In Terminal run 'flutter run' within project folder.
